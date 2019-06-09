@@ -1,0 +1,56 @@
+   
+
+   body{
+    
+    background-color: gray;
+    padding: 5px;
+
+   }
+
+   .body {
+		
+    color: black;
+    
+
+   }
+
+   header {
+        
+    background: brown;
+    padding:30px;
+    
+
+   }
+
+   footer{
+    
+    background: brown;
+    padding: 20px;
+
+   }
+
+   h1, h2 {
+
+        color:brown;
+   }
+    
+   .HeaderText{
+
+    color: aqua;
+    font-size: 30px;
+
+   }
+	a {
+		 font-size: 20px;
+		 background: white;
+		 padding: 9px 20px;
+		 border-radius: 10px;
+        }
+        
+    .ListFamily{
+
+        color:peachpuff;
+
+    }
+	
+		
